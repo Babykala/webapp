@@ -16,13 +16,13 @@
 .navbar{
 display:flex;
 align-items: flex-start;
-justify-content: space-around;
 }
 
 .link{
   background-color: lightgrey;
   border: none;
-  color:black
+  color:blue;
+  font-weight: bold;
 }
 
 .image-grid {
