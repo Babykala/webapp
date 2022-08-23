@@ -39,7 +39,7 @@ function Web() {
                 <div className="container">
                     <div>
                         <h1>
-                            WebApp-Unsplash infinite images
+                             INFINITE SCROLL IMAGE GALLERY FROM UNSPLASH
                         </h1>
                         <div className='navbar'>
                             <input value='All' type="button" onClick={handleChange} className='link' />
